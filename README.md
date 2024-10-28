@@ -1,6 +1,6 @@
 # Bibliometric Analysis of Smart Road Emergency Response Integrating IoV Computing
 ### AFROS Conference 2024
-
+![article](https://github.com/kawthar-boukahil-eng/Bibliometric-Analysis-of-Smart-Road-Emergency-Response-Integrating-IoV-Computing---AFROS-2024/blob/main/article.png)
 This repository contains the IEEE academic article titled *"Bibliometric Analysis of Smart Road Emergency Response Integrating IoV Computing"*, accepted for presentation at the AFROS Conference 2024. The paper examines the role of Internet of Vehicles (IoV) computing in enhancing emergency response systems on smart roads through the use of cloud, edge, and fog computing technologies.
 
 ## Overview
