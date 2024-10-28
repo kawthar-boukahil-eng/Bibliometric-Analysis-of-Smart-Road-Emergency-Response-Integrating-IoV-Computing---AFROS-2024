@@ -11,7 +11,7 @@ The integration of IoV computing within modern transportation infrastructure is 
 **Note**: The repository serves as a preview of the paper, showcasing the structure and key findings. Full access to the article is restricted. For more information or to request the complete document, please contact me.
 
 ## Why LaTeX and Overleaf?
-This project was developed using LaTeX on Overleaf, a cloud-based LaTeX editor ideal for academic publishing. LaTeX ensures precise formatting and references, while Overleaf simplifies collaboration and document compilation.
+This project was created using LaTeX on Overleaf, a cloud-based LaTeX editor widely used in academic and research settings. LaTeX ensures precise typesetting and formatting, which is essential for complex technical documents, while Overleaf facilitates seamless collaboration and efficient document management.
 
 ## Contact
 For full access or additional details, feel free to reach out at [kawthar.boukahil@univ-constantine2.dz].
